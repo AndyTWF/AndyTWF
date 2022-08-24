@@ -75,6 +75,26 @@ Sometimes the VATSIM network gets busy and it's necessary to establish restricti
 
 As well as all of the above, I'm always up for a challenge and I love to contribute to other packages that I have used and give back to the community in little bits where I can. Examples of this include OpenRCT2 and Filament PHP.
 
+### 🏫 Educator
+
+If you didn't already notice... I really love sharing my expertise and passion for technology with others! As well as spending a lot of time growing and mentoring junior developers, I have done a number of guest lectures and lunchtime talks:
+
+#### Aviation Safety - University of Bath
+
+As part of my degree, I took Safety Critical Systems. A lot of this involved air accidents. Following my graduation, I have been invited back and delivered several guest lectures on the subject to final year students as the University of Bath!
+
+#### Database Mushroom Cloud Prevention - Lunchtime Talk
+
+A tour through MySQL, optimising database queries and generally preventing your queries from melting your database.
+
+#### Introduction to Eloquent - Lunchtime Talk
+
+After the dev team I was working in decided to look at using Laravel's Eloquent ORM in a project, I used expertise from my open source work to deliver a lunchtime talk with a colleague introducing the wider company to Eloquent. Since then, Eloquent is now a mainstay!
+
+#### History of Programming and its Languages - iO Academy
+
+This talk is delivered to students in the first few weeks of their journey at a local Software academy. It covers some of the history behind the new career that they are pursuing, and provides an exciting introduction to the world of programming!
+
 ### 📩 How to reach me...
 
 [Website](https://andytwf.co.uk)
