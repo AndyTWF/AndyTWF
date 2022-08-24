@@ -77,7 +77,7 @@ As well as all of the above, I'm always up for a challenge and I love to contrib
 
 ### 🏫 Educator
 
-If you didn't already notice... I really love sharing my expertise and passion for technology with others! As well as spending a lot of time growing and mentoring junior developers, I have done a number of guest lectures and lunchtime talks:
+If you didn't already notice... I really love sharing my expertise and passion for technology with anyone who will listen! As well as spending a lot of time growing and mentoring junior developers, I have done a number of guest lectures and lunchtime talks:
 
 #### Aviation Safety - University of Bath
 
