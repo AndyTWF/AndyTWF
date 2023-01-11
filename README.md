@@ -53,7 +53,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 
 ### 💻 I'm currently working on...
 
-I work in the healthcare sector on patient management systems as part of a Scrum team. I take a prominent role in pushing forward new technologies, processes and best practices. In addition to writing all the codes, I also spend a bit of my time around Cyber Security.
+I'm a Senior Developer at Ably, working on our SDKs and client libraries to help deliver realtime experiences to a huge number of devices on a wide variety of ecosystems!
 
 ### 💻👐 Open Source!
 
