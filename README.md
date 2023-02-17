@@ -35,14 +35,14 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - MySQL
 - C++
 - C#
-- JavaScript (React JS)
+- JavaScript (React + Node)
 - Docker
 
 #### ✔ Generally know my way around...
 
-- JavaScript (Node)
 - Python
 - Java
+- Kotlin
 - C
 
 #### 👩‍🏫 Learning....
@@ -50,7 +50,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - AWS
 - Docker in Production
 - Microservices and Distributed Systems
-- Kotlin
+- Swift
 
 ### 💻 I'm currently working on...
 
