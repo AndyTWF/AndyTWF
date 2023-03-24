@@ -45,6 +45,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - Python
 - C
 - AWS
+- Serverless / FaaS
 - Microservices
 - Terraform
 - NoSQL
