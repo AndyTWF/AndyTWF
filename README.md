@@ -37,24 +37,25 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - C#
 - JavaScript (React + Node)
 - Docker
+- Kotlin
+- Java
 
 #### ✔ Generally know my way around...
 
 - Python
-- Java
-- Kotlin
 - C
+- AWS
+- Microservices
 
 #### 👩‍🏫 Learning....
 
-- AWS
 - Docker in Production
-- Microservices and Distributed Systems
+- Distributed Systems
 - Swift
 
 ### 💻 I'm currently working on...
 
-I'm a Senior Developer at Ably, working on our SDKs and client libraries to help deliver realtime experiences to a huge number of devices on a wide variety of ecosystems!
+I'm a Senior Developer at Ably, working on our SDKs and client libraries to help deliver realtime experiences to a huge number of devices on a wide variety of ecosystems! I'm also taking on technical leadership on some of the wider company and product missions!
 
 ### 💻👐 Open Source!
 
