@@ -46,6 +46,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - C
 - AWS
 - Microservices
+- Terraform
 
 #### 👩‍🏫 Learning....
 
