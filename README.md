@@ -52,9 +52,10 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 
 #### 👩‍🏫 Learning....
 
-- Docker in Production
 - Distributed Systems
+- High performance systems at scale
 - Swift
+- Android
 
 ### 💻 I'm currently working on...
 
