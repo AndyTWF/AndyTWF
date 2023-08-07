@@ -60,7 +60,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 
 ### 💻 I'm currently working on...
 
-I'm a Senior Developer at Ably, working on our SDKs and client libraries to help deliver realtime experiences to a huge number of devices on a wide variety of ecosystems! I'm also taking on technical leadership on some of the wider company and product missions!
+Currently, I'm working at Ably as a Senior Engineer and Technical Lead, building innovative solutions within a distributed systems environment that deliver realtime experiences at scale.
 
 ### 💻👐 Open Source!
 
