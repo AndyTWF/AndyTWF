@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andy! A rather flamboyant writer of code, with a passion for clean testable code, scalable software and architechting elegant solutions to complex problems! I also have special interests in Cybersecurity and Database Optimization. I'm very much a go-to kinda guy and love sharing my expertise with junior and senior developers alike! Never afraid to ask a question, challenge or put forward an option to reach an optimal solution to a problem.
+I'm Andy! A rather flamboyant writer of code, with a passion for clean testable code, scalable software and architechting elegant solutions to complex problems! I'm very much a go-to kinda guy and love sharing my expertise with junior and senior developers alike! Never afraid to ask a question, challenge or put forward an option to reach an optimal solution to a problem.
 
 Outside of work, I enjoy cycling (Somerset has great hills!), gyming, gaming (who doesn't) and snuggling my two lovely cats!
 
@@ -35,14 +35,15 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - MySQL
 - C++
 - C#
-- JavaScript (React + Node)
+- JavaScript/TypeScript (React + Node)
 - Docker
 - Kotlin
 - Java
-
-#### ✔ Generally know my way around...
-
 - Python
+- Event-driven Systems
+
+#### ✔ Know my way around...
+
 - C
 - AWS
 - Golang
