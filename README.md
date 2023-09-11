@@ -59,6 +59,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - Swift
 - Android
 - AI (Studying for an MSc!)
+- Kubernetes
 
 ### 💻 I'm currently working on...
 
