@@ -63,7 +63,7 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 
 ### 💻 I'm currently working on...
 
-Currently, I'm working at Ably as a Senior Engineer and Technical Lead, building innovative solutions within a distributed systems environment that deliver realtime experiences at scale. I'm also studying for a Master of Sciences in Artificial Intelligence at the University of Bath!
+Currently, I'm working at Ably the Technical Lead for Ably Chat, building innovative solutions within a distributed systems environment that deliver realtime experiences at scale. I'm also studying for a Master of Sciences in Artificial Intelligence at the University of Bath!
 
 ### 💻👐 Open Source!
 
