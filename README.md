@@ -41,21 +41,21 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 - Java
 - Python
 - Event-driven Systems
+- Golang
 
 #### ✔ Know my way around...
 
 - C
 - AWS
-- Golang
 - Serverless / FaaS
 - Microservices
 - Terraform
 - NoSQL
+- Distributed Systems
+- High performance systems at scale
 
 #### 👩‍🏫 Learning....
 
-- Distributed Systems
-- High performance systems at scale
 - Swift
 - Android
 - AI (Studying for an MSc!)
@@ -63,11 +63,15 @@ I enjoy a challenge and always strive to make learning a new language a purposef
 
 ### 💻 I'm currently working on...
 
-Currently, I'm leading the Chat team at Ably, building Ably Chat and innovative solutions within a distributed systems environment that deliver realtime experiences at scale. I'm also studying for a Master of Sciences in Artificial Intelligence at the University of Bath!
+Currently, I'm leading the Chat team at Ably, building Ably Chat and innovative solutions within a distributed systems environment that deliver realtime experiences at scale.
+
+### 👨‍🎓 Study!
+
+I'm currently in the second year of a Master of Sciences in Artificial Intelligence at University of Bath!
 
 ### 💻👐 Open Source!
 
-In addition to my paid job, I am a Web Services Developer in the VATSIM United Kingdom Division. All of the code that I write is open source and you can find my work in my pinned repos! Some highlights:
+In addition to my paid job, I contribute to open source projects. Most notably, I spent 10 years asa Web Services Developer in the VATSIM United Kingdom Division. All of the code that I write is open source and you can find my work in my pinned repos! Some highlights:
 
 #### 🧩 UK Controller Plugin
 
